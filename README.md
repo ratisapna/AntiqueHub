@@ -11,7 +11,7 @@ AntiqueHub is a full-stack eCommerce platform dedicated to buying and selling an
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: React,Tailwind
 - **Backend**: Spring Boot (Java)
 - **Database**: MySQL 
 - **Version Control**: Git
@@ -21,3 +21,9 @@ AntiqueHub is a full-stack eCommerce platform dedicated to buying and selling an
 
 
 ![Screenshot 2025-04-30 235909](https://github.com/user-attachments/assets/c6a6af3d-4050-4bce-95f2-b2dbf67f72ed)
+![Screenshot 2025-04-30 235713](https://github.com/user-attachments/assets/90ef22bb-d872-496f-9bd8-bf0476f8f468)
+![Screenshot 2025-04-30 235740](https://github.com/user-attachments/assets/f745d2aa-8328-441f-b84a-43307f4c3167)
+![Screenshot 2025-04-30 235755](https://github.com/user-attachments/assets/b307567d-a56f-4eae-b787-da912060ebae)
+
+
+
